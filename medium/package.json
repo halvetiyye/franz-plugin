@@ -1,0 +1,23 @@
+{
+  "name": "Medium",
+  "version": "1.0.0",
+  "description": "Medium",
+  "main": "index.js",
+  "author": "Volkan Şenkardeşler <vlkn.snkrdslr@hotmail.com>",
+  "license": "free",
+  "config": {
+    "serviceURL": "https://medium.com/m/callback/email?token=52dd345db311",
+    "serviceName": "Medium",
+    "message": "medium",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
